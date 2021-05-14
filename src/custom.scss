@@ -1,0 +1,9 @@
+.suggetion{
+    cursor: pointer;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    &:hover{
+        background-color:grey;
+    }
+}
